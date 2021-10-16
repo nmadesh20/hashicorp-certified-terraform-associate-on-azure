@@ -6,7 +6,7 @@ description: Learn about Terraform Input Variables with Collection Type lists
 ## Step-01: Introduction
 - Implement complex type constructors like `list` 
 
-## Step-02: Implement complex type cosntructors like `list` 
+## Step-02: Implement complex type constructors like `list` 
 - [Type Constraints](https://www.terraform.io/docs/language/expressions/types.html)
 - **list (or tuple):** a sequence of values, like ["10.0.0.0/16", "10.1.0.0/16", 10.2.0.0/16]. 
 - Elements in a list or tuple are identified by consecutive whole numbers, starting with zero.
